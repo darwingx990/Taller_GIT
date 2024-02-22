@@ -36,14 +36,14 @@ si no se pone el --cached, el archivo se borrara tambien del local.
 
 - <git rm --cached ><nombre_archivo>
 
-## Comando para clonsr o traer un repositorio dd git 
-- git 
+## Comando para clonar o traer un repositorio dd git 
+- git clone URL_Conexion
 
 ## Comando para listar las conexiones remotas
 - git remote -v
 
 ## Comando para eliminar una conexion remota
-- git remove nombre-conexion
+- git remote remove nombre-conexion
 
 ## Comando para enviar informacion a la nube
 - git push // Envia informacion a la rama actual
