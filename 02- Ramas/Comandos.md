@@ -52,3 +52,5 @@ si no se pone el --cached, el archivo se borrara tambien del local.
 - git push --all // Envia informacion a todas las rama
 
 ## Comandos para traes informacion de la nube
+- git pull 
+- git pull nombre_conexion nombre_rama
