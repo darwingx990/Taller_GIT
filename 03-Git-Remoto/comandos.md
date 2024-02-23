@@ -1,4 +1,4 @@
-## Comando para olocard Git en la nube
+## Comando para colocar Git en la nube
 - git remote add nombre_conexion url_conexion
 
 ## Comando para clonar o traer un repositorio dd git 
