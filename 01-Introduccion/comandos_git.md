@@ -5,7 +5,7 @@
 - git --version
 
 ## Comando para cambiar el nombre del archivo principal a main
-- git branch -m main
+- git branch -M main
 
 ## Comando para configuracion inicial de Git
 - git config --global user.name "Darwing"
@@ -47,5 +47,6 @@ Para salir del edit Ctrl + o y ctrl x
 
 - git commit -m "Mensaje del commit"
 
-
+## Comando para agregar archivos al commit y crear foto al mismo tiempo
+- git commit -am "Mensaje del commit"
 
