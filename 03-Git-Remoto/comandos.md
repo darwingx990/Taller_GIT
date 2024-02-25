@@ -1,7 +1,7 @@
 ## Comando para colocar Git en la nube
 - git remote add nombre_conexion url_conexion
 
-## Comando para clonar o traer un repositorio dd git 
+## Comando para clonar o traer un repositorio de git 
 - git clone URL_Conexion
 
 ## Comando para listar las conexiones remotas
@@ -16,6 +16,9 @@
 - git push -u nombre_conexion nombre_rama //Si no existe la crea
 - git push --all // Envia informacion a todas las rama
 
-## Comandos para traes informacion de la nube
+## Comandos para traer informacion de la nube
 - git pull 
 - git pull nombre_conexion nombre_rama
+
+## Comando para Configurar git para que ignore las diferencias de final de línea entre Windows y Unix.
+- git config --global core.autocrlf false

@@ -3,14 +3,14 @@
 -git branch
 git branch -v
 
-## Comandos pars crezr una rama
+## Comandos para crear una rama
 
 - git branch nombre_rama
 
 ## Comando para  cambiar de ramas
-- git chrckout nombre_rama
+- git checkout nombre_rama
 - git switch nombre_rama
--git checkout -bnombre_rama y hace el cambio
+-git checkout -nombre_rama y hace el cambio
 
 ## Comando para eliminar una rama
 
@@ -28,7 +28,6 @@ Se crea la carpeta y dentro de ella se crea un archivo llamado:
 En la parte del lg va el nombre que le queremos poner y en comillas vas el comando que quiero que se ejecute con ese alias
 
 - git config --global alias.lg "log --oneline"
-
 
 ## Comando para eliminar un archivo de Git
 Se ubica en la carpeta donde esta el archivo con cd.
